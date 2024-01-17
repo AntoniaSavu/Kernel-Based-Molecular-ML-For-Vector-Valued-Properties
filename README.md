@@ -21,7 +21,7 @@ The primary objective of this work was to evaluate the performance of multivaria
 
 ## Data Limitations
 
-Unfortunately, the original datasets utilized for this research are not included in this repository due to their substantial size. The datasets consist of 151 observations of porphyrin molecules and 768 observations of benzene molecules in their DFTB form.
+Unfortunately, the original datasets utilized for this research are not included in this repository due to their substantial size. The datasets consist of 151 observations of porphyrin molecules and 768 observations of benzene molecules in their DFTB form. The initial files and the molecular representations ( using Coulomb Matrices) could not be added due to their size). These can be further supplied for replication of experiment.
 
 ## Validation with Dummy Dataset
 
