@@ -26,7 +26,7 @@ Below is provided an overview of the Jupyter Notebooks used in the thesis
 
 - **rotated_dummy_mtgpr.ipynb:** Multitask Gaussian Process Regression for the rotated dummy dataset. Found in folder _Dummy Data_
 
-- **hypertuning.ipynb:** Hyperparameter tuning for the benzene dataset. Porphyrine dataset was too small to present any meaningful results.
+- **hypertuning.ipynb:** Hyperparameter tuning for the benzene dataset. Porphyrin dataset was too small to present any meaningful results.
 
 - **dummy_hyperparam_training.ipynb:** Hyperparameter tuning for the dummy datasets.
 
