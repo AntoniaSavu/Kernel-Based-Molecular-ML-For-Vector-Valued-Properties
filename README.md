@@ -9,6 +9,7 @@ The primary objective of this work was to evaluate the performance of multivaria
 ## Technologies and notions learned and used
 
 - KRR
+- Gaussian Processes, Probability Theory
 - GPR
 - MT-GPR
 - scikitlearn
