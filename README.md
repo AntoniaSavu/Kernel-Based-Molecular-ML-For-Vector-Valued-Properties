@@ -22,7 +22,7 @@ The primary objective of this work was to evaluate the performance of multivaria
 
 ## Data Limitations
 
-Unfortunately, the original datasets  and theirs shuffles utilized for this research are not included in this repository due to their substantial size. However, these can be recreated by running the ``main.ipynb`` notebook again. More detailed instructions in the ``Thesis`` folder and the actual notebook. This experiment was ran on two datasets, one containing a Benzene trajectory with 768 molecues, and one a Porphyrin trajectory with in 151 molecules.
+Unfortunately, the original datasets  and theirs shuffles utilized for this research are not included in this repository due to their substantial size. However, these can be recreated by running the ``main.ipynb`` notebook again. More detailed instructions in the ``Thesis`` folder and the actual notebook. This experiment was ran on two datasets, one containing a Benzene trajectory with 768 molecues, and one a Porphyrin trajectory with 151 molecules.
 
 ## Validation with Dummy Dataset
 
