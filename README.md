@@ -1,6 +1,6 @@
 # Kernel Based Molecular Machine Learning for Vector Valued Properties
 
-This repository contains my bachleor thesis conducted at Jacobs University. In this project, I focused on kernel based regression models, with a specific focus on the prediction of the Transition Dipole Moment - a vectorial property of molecules.
+This repository contains my bachleor thesis conducted at Jacobs University. In this project, I focused on kernel based regression models, specifically on the prediction of the Transition Dipole Moment - a vectorial property of molecules.
 
 ## Overview
 
